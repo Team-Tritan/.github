@@ -1,6 +1,6 @@
 
 # Tritan Development - AS393577
-We make things for all types of people :D 
+We make amazing things for all types of people :D 
 
 
 ## Tech Stack
