@@ -1,9 +1,7 @@
-
-# Tritan Development - AS393577
 We make amazing things for all types of people :D 
 
 
-## Tech Stack
+## Stack
 
 **Frontend:** Next, React, Express, Vanilla JS.
 
