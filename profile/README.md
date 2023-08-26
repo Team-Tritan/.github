@@ -3,9 +3,9 @@ We make amazing things for all types of people :D
 
 ## Stack
 
-**Frontend:** Next, React, Express, Vanilla JS.
+**Frontend:** Various javascript/typescript frameworks.
 
-**Backend:** Node, Typescript, Go, Dart, Python
+**Backend:** Nodejs, Typescript, Go, Dart, Python.
 
 
 ## Licenses
