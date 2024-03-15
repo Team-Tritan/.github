@@ -29,8 +29,8 @@ If you have any feedback, please reach out to us at netops@tritan.dev.
 
 ## Links
 
- - [Our awesome website!](https://tritan.dev)
-- [Our beautiful discord!](https://discord.gg/http)
+ - [Our awesome website!](https://tritan.gg)
+- [Our beautiful discord!](https://discord.gg/XvKmZUUHaQ)
 - [Our sexy ASN!](https://bgp.tools/as393577)
 
 
