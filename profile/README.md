@@ -3,7 +3,7 @@ Team Tritan is a group of software and network engineers who provide hosting, ne
 
 ## Stack
 
-**Frontend:** Various frameworks.
+**Frontend:** Various js/ts frameworks.
 
 **Backend:** Nodejs, Typescript, Perl, Go, Python.
 
