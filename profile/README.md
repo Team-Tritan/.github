@@ -29,9 +29,9 @@ If you have any feedback, please reach out to us at noc@tritan.gg.
 
 ## Links
 
- - [website](https://tritan.gg)
-- [discord](https://discord.gg/XvKmZUUHaQ)
-- [network](https://bgp.tools/as393577)
+- [Our Website](https://tritan.gg)
+- [Our Discord](https://discord.gg/XvKmZUUHaQ)
+- [Our Network](https://bgp.tools/as393577)
 
 
 
