@@ -5,7 +5,7 @@ We make amazing things for all types of people :D
 
 **Frontend:** Various javascript/typescript frameworks.
 
-**Backend:** Nodejs, Typescript, Go, Dart, Python.
+**Backend:** Nodejs, Typescript, Perl, Go, Python.
 
 
 ## Licenses
