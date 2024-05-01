@@ -1,9 +1,9 @@
-We make amazing things for all types of people :D 
+Team Tritan is a group of software and network engineers who provide hosting, network services, and make amazing projects for all types of people :D 
 
 
 ## Stack
 
-**Frontend:** Various javascript/typescript frameworks.
+**Frontend:** Various frameworks.
 
 **Backend:** Nodejs, Typescript, Perl, Go, Python.
 
