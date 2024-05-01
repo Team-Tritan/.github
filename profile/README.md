@@ -24,7 +24,7 @@ Contributions are always welcome! Feel  free to submit a pull request of any kin
 
 ## Feedback
 
-If you have any feedback, please reach out to us at netops@tritan.dev.
+If you have any feedback, please reach out to us at noc@tritan.gg.
 
 
 ## Links
