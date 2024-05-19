@@ -12,7 +12,7 @@ We're a passionate group of software and network engineers dedicated to providin
 ## Links
 
 - [Our Website](https://tritan.gg)
-- [Our Discord](https://discord.gg/XvKmZUUHaQ)
+- [Our Discord](https://discord.gg/b85N597sac)
 - [Our Network](https://bgp.tools/as393577)
 
 ## Licenses
