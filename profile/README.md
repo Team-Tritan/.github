@@ -46,7 +46,7 @@ We're passionate about these technologies:
 
 Thing's we're currently working on... jk. What haven't we actually made already? lol. There's aloooot more private repos than public ones, and we're running out of ideas to do.
 
-- A custom built hypervisor based on QMEU, written with love and frustration.
+- A custom built hypervisor based on QEMU, written with love and frustration.
 - Auto deployment of VPS services via a control panel built into our website.
 - Networking, networking, and more networking. Our ASN never sleeps and neither does our engineers.
 - Annnd, whatever we really feel like making... lol
