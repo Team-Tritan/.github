@@ -48,7 +48,7 @@ Thing's we're currently working on... jk. What haven't we actually made already?
 
 - A custom built hypervisor based on QEMU, written with love and frustration.
 - Auto deployment of VPS services via a control panel built into our website.
-- Networking, networking, and more networking. Our ASN never sleeps and neither does our engineers.
+- Networking, networking, and more networking. Our ASN never sleeps and neither do our engineers.
 - Annnd, whatever we really feel like making... lol
 
 ## Contributing
