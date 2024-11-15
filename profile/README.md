@@ -27,7 +27,7 @@ All our open-source projects are licensed with the following:
 
 The people behind Team Tritan:
 
-- **Sysop** - Founder, Network Engineer
+- **Dylan** - Founder, Network Engineer
 - **Astrid** - Founder, Software Engineer
 - **Max** - Network Engineer
 - **Shams** - Network Engineer
