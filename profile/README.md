@@ -29,6 +29,9 @@ The people behind Team Tritan:
 
 - **Sysop** - Founder, Network Engineer
 - **Astrid** - Founder, Software Engineer
+- **Max** - Network Engineer
+- **Shams** - Network Engineer
+- **Harlan** - Engineering Intern
 
 ## Technologies We Use
 
