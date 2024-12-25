@@ -29,6 +29,7 @@ The people behind Team Tritan:
 
 - **Dylan** - Founder, Network Engineer
 - **Astrid** - Founder, Software Engineer
+- **Fxx** - DevOpser
 - **Max** - Network Engineer
 - **Shams** - Network Engineer
 - **Harlan** - Engineering Intern
